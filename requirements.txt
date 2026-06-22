@@ -1,0 +1,13 @@
+APScheduler>=3.11,<4
+fastapi>=0.115
+psycopg[binary]>=3.1
+pydantic>=2.7
+pydantic-settings>=2.2
+requests>=2.31
+SQLAlchemy>=2.0
+uvicorn[standard]>=0.30
+
+# Development and verification
+pytest>=8
+ruff>=0.5
+

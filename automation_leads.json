@@ -1,0 +1,18 @@
+{
+  "leads": [
+    {
+      "company_name": "ABC Dental Group",
+      "website": "https://example.com",
+      "country": "USA",
+      "city": "Austin",
+      "industry": "Dental Group",
+      "employee_count": 85,
+      "estimated_revenue": "$8M-$15M",
+      "hiring_signals": ["Hiring Growth Marketing Manager", "Hiring Website Developer"],
+      "website_signals": ["Outdated Website", "Slow Website", "Weak Funnel"],
+      "growth_signals": ["Opening New Locations"],
+      "linkedin_activity": ["Founder Active on LinkedIn"],
+      "source_url": "https://example.com/careers/growth-marketing-manager"
+    }
+  ]
+}
